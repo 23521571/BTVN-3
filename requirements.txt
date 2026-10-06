@@ -1,0 +1,10 @@
+# Ba demo buổi 03. Không cần khoá API: model giả lập ở lib/model_gia.py.
+langchain>=1.0
+langchain-core>=1.0
+python-dotenv>=1.0
+markdown>=3.0
+
+# Chỉ cần khi chạy với model thật (--that). Chọn một nhà cung cấp:
+# langchain-openai>=1.0
+# langchain-anthropic>=1.0
+# langchain-google-genai>=3.0
